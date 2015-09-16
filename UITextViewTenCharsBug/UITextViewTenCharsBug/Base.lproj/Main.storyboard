@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="ABCDEFGHIJ" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="0dQ-t3-QK0">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="ABCDEFGHI" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="0dQ-t3-QK0">
                                 <rect key="frame" x="180" y="236" width="240" height="128"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
